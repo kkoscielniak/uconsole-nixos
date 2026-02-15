@@ -5,6 +5,10 @@
   home.packages = with pkgs; [
     neovim
     neofetch
+    alacritty
+    kismet 
+    firefox
+    gpsd
   ];
 
   programs.git = {

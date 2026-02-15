@@ -8,7 +8,6 @@
     alacritty
     kismet 
     firefox
-    gpsd
   ];
 
   programs.git = {

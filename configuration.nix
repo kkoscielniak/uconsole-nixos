@@ -4,6 +4,7 @@
   nix.settings.experimental-features = [ "nix-command" "flakes" ];
 
   environment.systemPackages = with pkgs; [
+    gpsd
     git
     vim
     neovim

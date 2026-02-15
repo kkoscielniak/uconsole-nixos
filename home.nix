@@ -1,6 +1,5 @@
-{ config, pkgs, ... }:
+{ config, pkgs, ... }: {
 
-{
   home.homeDirectory = "/home/krystian";
 
   home.packages = with pkgs; [

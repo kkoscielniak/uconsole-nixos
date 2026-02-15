@@ -6,7 +6,6 @@
     neovim
     neofetch
     alacritty
-    kismet 
     firefox
   ];
 
